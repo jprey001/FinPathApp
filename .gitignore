@@ -1,5 +1,28 @@
+# Node.js dependencies
 node_modules/
+
+# Environment files
 .env
-.next
-.DS_Store
+
+# Logs
 *.log
+
+# npm-debug files
+npm-debug.log*
+
+# VS Code directory
+.vscode/
+
+# Mac system files
+.DS_Store
+
+# Vercel build and cache folders
+.vercel/
+
+# TypeScript build output (if you compile TypeScript files)
+dist/
+build/
+
+# Temporary files or folders that might be generated during development
+*.swp
+
